@@ -1,0 +1,36 @@
+.newPost input{
+    width:70%;
+    padding:10px;
+    font-size: medium;
+    font-style: italic;
+    box-sizing:border-box ;
+    outline: none;
+    text-align: left;
+    margin: 20px;
+    border-radius: 10px;
+    outline-style: none;
+    border: none;
+    
+}
+.newPost button2{
+    border-radius: 10px;
+color:black;
+    padding: 15px 32px ;
+    text-align: center;
+    margin: 40px 450px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 200px;
+    display: block;
+    outline-style: none;
+    border:1px solid green;
+    background-color:white;
+    transition-duration: 0.4s;
+    
+}
+
+
+.newPost{
+    background-color: cadetblue;
+    margin: 50px;
+}

@@ -1,0 +1,15 @@
+.click button {
+    border-radius: 0px;
+    box-sizing: border-box;
+    outline: none;
+    left:100%;
+    font-size:24px;
+    padding:20px 25px 18px;
+    box-shadow: 0px 2px 2px lightblue;
+    margin-left:24%;
+    border-radius: 10px;
+    color: blue;
+    background-color: cornsilk;
+    cursor: pointer;
+    margin-top: 10%;
+}

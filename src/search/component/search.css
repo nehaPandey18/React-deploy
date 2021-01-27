@@ -1,0 +1,43 @@
+.container{
+    margin:36px auto;
+    width:100%;
+    max-width:800px;
+   }
+   .search-label{
+       position: relative;
+   }
+   .container input{
+       width:100%;
+       padding:10px;
+       font-size: medium;
+       font-style: italic;
+       box-sizing:border-box ;
+       outline: none;
+       text-align: center;
+   }
+   .search-icon{
+       position: absolute;
+       top: -3px;
+       font-size:24px;
+       color:red;
+       left: 50px;
+        }
+    .container button1 {
+        position: absolute;
+        box-sizing: border-box;
+        outline: none;
+        left:100%;
+        font-size:25px;
+        padding:20px 25px 18px;
+        box-shadow: 0px 2px 2px lightblue;
+        border:1px solid black;
+        
+    }   
+    .cancel-button{
+        position:absolute;
+        color: red;
+        right:13px;
+        top: 7px;
+        
+
+    } 
